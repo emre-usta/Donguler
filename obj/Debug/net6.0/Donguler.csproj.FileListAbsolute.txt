@@ -1,0 +1,15 @@
+/Users/yunusemreusta/Desktop/Pratikler/Donguler/bin/Debug/net6.0/Donguler
+/Users/yunusemreusta/Desktop/Pratikler/Donguler/bin/Debug/net6.0/Donguler.deps.json
+/Users/yunusemreusta/Desktop/Pratikler/Donguler/bin/Debug/net6.0/Donguler.runtimeconfig.json
+/Users/yunusemreusta/Desktop/Pratikler/Donguler/bin/Debug/net6.0/Donguler.dll
+/Users/yunusemreusta/Desktop/Pratikler/Donguler/bin/Debug/net6.0/Donguler.pdb
+/Users/yunusemreusta/Desktop/Pratikler/Donguler/obj/Debug/net6.0/Donguler.csproj.AssemblyReference.cache
+/Users/yunusemreusta/Desktop/Pratikler/Donguler/obj/Debug/net6.0/Donguler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yunusemreusta/Desktop/Pratikler/Donguler/obj/Debug/net6.0/Donguler.AssemblyInfoInputs.cache
+/Users/yunusemreusta/Desktop/Pratikler/Donguler/obj/Debug/net6.0/Donguler.AssemblyInfo.cs
+/Users/yunusemreusta/Desktop/Pratikler/Donguler/obj/Debug/net6.0/Donguler.csproj.CoreCompileInputs.cache
+/Users/yunusemreusta/Desktop/Pratikler/Donguler/obj/Debug/net6.0/Donguler.dll
+/Users/yunusemreusta/Desktop/Pratikler/Donguler/obj/Debug/net6.0/refint/Donguler.dll
+/Users/yunusemreusta/Desktop/Pratikler/Donguler/obj/Debug/net6.0/Donguler.pdb
+/Users/yunusemreusta/Desktop/Pratikler/Donguler/obj/Debug/net6.0/Donguler.genruntimeconfig.cache
+/Users/yunusemreusta/Desktop/Pratikler/Donguler/obj/Debug/net6.0/ref/Donguler.dll
